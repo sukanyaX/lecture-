@@ -1,0 +1,1 @@
+david.py has functions that will provide a model of the Galactic acceleration as well as the measured Galactic acceleration from the spin period derivative.  The simulated Sgr dwarf interaction with the Milky Way is given in the csv files
